@@ -11,6 +11,7 @@ export default function CurrentTemperatureContainer() {
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-day.png"
             class="weatherAppTempIcon"
             id="icon"
+            alt="weather description icon"
           ></img>
         </span>
         <span

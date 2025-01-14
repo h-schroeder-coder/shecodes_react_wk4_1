@@ -6,7 +6,7 @@ export default function WeatherAppData() {
   return (
     <div className="WeatherAppData">
       <div className="weatherAppData">
-        <h1 className="weatherAppCityName" id="weather-app-city-name"></h1>
+        <h1 className="weatherAppCityName" id="weather-app-city-name">Fall Creek</h1>
 
         <p className="weatherAppCurrentConditions">
           <span id="time">Tuesday, 10:09,</span>
